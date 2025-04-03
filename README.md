@@ -20,3 +20,6 @@ A: ChromaPKG will be the default, which is currently in progress. The command wi
 5. ```chroma -iwr <packagename>``` - Rolls back the specified package, reading from the "published versions" document on the repo.
 6. ```chroma -l clean``` - Cleans the package manager temp stores, e.g. /var/chroma/cached/zsh-3.0.6.cpkg
 7. ```chroma -w update-repo``` - Updates the repositories from the update-repo utility found on the main repository.
+<br>
+# Links
+You can compile ChromaPKG, or another part when it goes live on github.com/thedistromaker/redistributables.<br> 
