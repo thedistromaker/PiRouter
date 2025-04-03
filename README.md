@@ -1,9 +1,9 @@
 # PiRouter
 PiRouter aims to make a project that can make a CM4/5 into a router that can be used for light use cases.<br>  
-The OS (routerPi) has three flavours:<br> 
-1. routerPi LTS - This version has long-term support, with a CIP kernel, and ChromaPKG LTS.
-2. routerPi Stable - This version has around 1 year of support, with an LTS kernel (like 6.12), and ChromaPKG Stable.
-3. routerPi Beta - This version is a nightly build of routerPi, with the linux-next source code, and ChromaPKG Beta.<br>   
+The OS (netPi) has three flavours:<br> 
+1. netPi LTS - This version has long-term support, with a CIP kernel, and ChromaPKG LTS.
+2. netPi Stable - This version has around 1 year of support, with an LTS kernel (like 6.12), and ChromaPKG Stable.
+3. netPi Beta - This version is a nightly build of routerPi, with the linux-next source code, and ChromaPKG Beta.<br>   
 # Q&A
 Q: How do I flash the OS?<br> 
 A: The setup utility (written in Python3) will be released on the day of the image publication. This program will include downloading the image, and flashing the image, resizing partitions as necessary.<br>  
